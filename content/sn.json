@@ -1,0 +1,173 @@
+{
+  "_meta": {
+    "language": "Shona",
+    "code": "sn",
+    "note": "DRAFT interface translation. Must be checked by a fluent Shona speaker. Medical and safety text is not translated yet and falls back to English with a notice, as the proposal does not allow raw machine translation for medical content.",
+    "keywordsTodo": "TODO: add Shona search words that people really use for each section. Leave a list empty until a fluent speaker provides the words. Do not guess medical words."
+  },
+  "ui": {
+    "appName": "Intelligent Fertility Navigator",
+    "tagline": "Ruzivo rwakajeka. Sarudzo dziri nani.",
+    "chooseLanguage": "Sarudza mutauro",
+    "chooseLanguageHint": "Sarudza mutauro waunoda kushandisa. Unogona kuuchinja gare gare pamenu.",
+    "back": "Dzokera",
+    "draft": "DRAFT – hazvisati zvaongororwa",
+    "notTranslated": "Mamwe mashoko pachikamu ichi achiri muChirungu. Achashandurwa uye kuongororwa.",
+    "changeLanguage": "Chinja mutauro",
+    "mainMenu": "Menu huru",
+    "tabs": {
+      "home": "Kumba",
+      "prepare": "Gadzirira",
+      "findCare": "Tsvaga rubatsiro",
+      "ask": "Bvunza"
+    }
+  },
+  "welcome": {
+    "title": "Mhoro, shamwari",
+    "intro": "Hausi wega. Ndinofamba newe, nhanho imwe panguva.",
+    "canTitle": "Zvinogona kuitwa neapp iyi",
+    "can": [
+      "Kutsanangura nezvekubata pamuviri nemashoko ari nyore",
+      "Kukubatsira kugadzirira kuonana nemushandi wezveutano",
+      "Kukuratidza makiriniki akaongororwa nechikwata chedu"
+    ],
+    "cannotTitle": "Zvisingagoni kuitwa neapp iyi",
+    "cannot": [
+      "Haigoni kukuudza kana une chirwere",
+      "Haigoni kukupa mushonga kana kurapwa",
+      "Haikumbiri zita rako kana nhamba yefoni"
+    ],
+    "start": "Tanga"
+  },
+  "menu": {
+    "title": "Tingakubatsira sei nhasi?",
+    "greeting": "Mhoro",
+    "moreTopics": "Zvimwe zvikamu",
+    "understand": {
+      "label": "Nzwisisa nezvekubata pamuviri",
+      "hint": "Ruzivo rwakajeka uye rwuri nyore"
+    },
+    "prepare": {
+      "label": "Gadzirira kuenda kukiriniki",
+      "hint": "Rondedzero yekugadzirira"
+    },
+    "costs": {
+      "label": "Nzwisisa mari inodiwa",
+      "hint": "Mhando dzemari dzekuronga"
+    },
+    "findCare": {
+      "label": "Tsvaga rubatsiro pedyo newe",
+      "hint": "Makiriniki akaongororwa"
+    },
+    "support": {
+      "label": "Rutsigiro nezvinotevera",
+      "hint": "Rubatsiro nezviratidzo zvekukurumidza"
+    },
+    "assistant": {
+      "label": "Bvunza mubatsiri",
+      "hint": "Mhinduro kubva kumashoko akaongororwa chete"
+    },
+    "privacy": {
+      "label": "Kuchengetedzwa kwako",
+      "hint": "Zvatinotora nezvatisingatore"
+    }
+  },
+  "understand": {
+    "title": "Nzwisisa nezvekubata pamuviri",
+    "sections": [
+      {
+        "id": "what",
+        "keywords": []
+      },
+      {
+        "id": "when-help",
+        "keywords": []
+      },
+      {
+        "id": "causes",
+        "keywords": []
+      },
+      {
+        "id": "both-partners",
+        "keywords": []
+      },
+      {
+        "id": "check-up",
+        "keywords": []
+      }
+    ]
+  },
+  "prepare": {
+    "title": "Gadzirira kuenda kukiriniki",
+    "stepOf": "Danho {n} pa {total}",
+    "summaryStep": "Pfupiso",
+    "next": "Enderera",
+    "back": "Dzokera"
+  },
+  "costs": {
+    "title": "Nzwisisa mari inodiwa",
+    "sections": [
+      {
+        "id": "consultation",
+        "keywords": []
+      },
+      {
+        "id": "tests-cost",
+        "keywords": []
+      },
+      {
+        "id": "treatment-cost",
+        "keywords": []
+      },
+      {
+        "id": "transport",
+        "keywords": []
+      },
+      {
+        "id": "cost-questions",
+        "keywords": []
+      }
+    ]
+  },
+  "findCare": {
+    "title": "Tsvaga rubatsiro",
+    "intro": "Makiriniki nezvipatara zviri pedyo newe. Ndapota fonera kutanga kuti usimbise masevhisi nemitengo.",
+    "empty": "Hapana kiriniki yakaongororwa parizvino. Tichawedzera makiriniki kana chikwata chedu chavafonera kana kuvashanyira.",
+    "lastChecked": "Yakaongororwa:",
+    "call": "Fonera",
+    "services": "Zvavanoita:",
+    "all": "Ese"
+  },
+  "support": {
+    "title": "Rutsigiro nezvinotevera",
+    "urgent": {
+      "id": "urgent",
+      "keywords": []
+    },
+    "sections": [
+      {
+        "id": "feelings",
+        "keywords": []
+      },
+      {
+        "id": "family",
+        "keywords": []
+      },
+      {
+        "id": "next-steps",
+        "keywords": []
+      }
+    ]
+  },
+  "assistant": {
+    "title": "Bvunza mubatsiri",
+    "privacyReminder": "Usanyora zita rako, nhamba yefoni, kero kana nhamba yefaira rekukiriniki.",
+    "placeholder": "Nyora mubvunzo wako...",
+    "send": "Tumira",
+    "you": "Iwe",
+    "from": "Kubva:"
+  },
+  "privacy": {
+    "title": "Kuchengetedzwa kwako"
+  }
+}

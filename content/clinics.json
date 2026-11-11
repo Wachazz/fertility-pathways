@@ -1,0 +1,245 @@
+{
+  "_note": "Clinics listed from public information. Locations are approximate. Phone numbers and prices are added only after a team member has phoned. Entries with lastChecked show the check date.",
+  "clinics": [
+    {
+      "id": "parirenyatwa",
+      "name": "Parirenyatwa Group of Hospitals",
+      "town": "Harare",
+      "address": "Avondale",
+      "lat": -17.81,
+      "lon": 31.045,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "harare-central",
+      "name": "Harare Central Hospital",
+      "town": "Harare",
+      "address": "Harare South",
+      "lat": -17.848,
+      "lon": 31.04,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "mbare-poly",
+      "name": "Mbare Polyclinic",
+      "town": "Harare",
+      "address": "Mbare",
+      "lat": -17.86,
+      "lon": 31.04,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "highfield-poly",
+      "name": "Highfield Polyclinic",
+      "town": "Harare",
+      "address": "Highfield",
+      "lat": -17.9,
+      "lon": 30.99,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "budiriro-poly",
+      "name": "Budiriro Polyclinic",
+      "town": "Harare",
+      "address": "Budiriro",
+      "lat": -17.92,
+      "lon": 30.93,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "kuwadzana-poly",
+      "name": "Kuwadzana Polyclinic",
+      "town": "Harare",
+      "address": "Kuwadzana",
+      "lat": -17.83,
+      "lon": 30.93,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "glen-norah-poly",
+      "name": "Glen Norah Polyclinic",
+      "town": "Harare",
+      "address": "Glen Norah",
+      "lat": -17.91,
+      "lon": 31.0,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "mabvuku-poly",
+      "name": "Mabvuku Polyclinic",
+      "town": "Harare",
+      "address": "Mabvuku",
+      "lat": -17.83,
+      "lon": 31.15,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "mufakose-poly",
+      "name": "Mufakose Polyclinic",
+      "town": "Harare",
+      "address": "Mufakose",
+      "lat": -17.86,
+      "lon": 30.95,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "dzivarasekwa-poly",
+      "name": "Dzivarasekwa Polyclinic",
+      "town": "Harare",
+      "address": "Dzivarasekwa",
+      "lat": -17.8,
+      "lon": 30.92,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "avenues-clinic",
+      "name": "The Avenues Clinic",
+      "town": "Harare",
+      "address": "Avenues",
+      "lat": -17.826,
+      "lon": 31.05,
+      "ownership": "private",
+      "services": []
+    },
+    {
+      "id": "chitungwiza-central",
+      "name": "Chitungwiza Central Hospital",
+      "town": "Chitungwiza",
+      "address": "Chitungwiza",
+      "lat": -18.017,
+      "lon": 31.071,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "mpilo",
+      "name": "Mpilo Central Hospital",
+      "town": "Bulawayo",
+      "address": "Mzilikazi",
+      "lat": -20.172,
+      "lon": 28.583,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "ubh",
+      "name": "United Bulawayo Hospitals",
+      "town": "Bulawayo",
+      "address": "City centre",
+      "lat": -20.159,
+      "lon": 28.586,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "mater-dei",
+      "name": "Mater Dei Hospital",
+      "town": "Bulawayo",
+      "address": "Hillside",
+      "lat": -20.18,
+      "lon": 28.6,
+      "ownership": "private",
+      "services": []
+    },
+    {
+      "id": "mutare-prov",
+      "name": "Mutare Provincial Hospital",
+      "town": "Mutare",
+      "address": "Mutare",
+      "lat": -18.97,
+      "lon": 32.66,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "gweru-prov",
+      "name": "Gweru Provincial Hospital",
+      "town": "Gweru",
+      "address": "Gweru",
+      "lat": -19.45,
+      "lon": 29.82,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "masvingo-prov",
+      "name": "Masvingo Provincial Hospital",
+      "town": "Masvingo",
+      "address": "Masvingo",
+      "lat": -20.07,
+      "lon": 30.83,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "marondera-prov",
+      "name": "Marondera Provincial Hospital",
+      "town": "Marondera",
+      "address": "Marondera",
+      "lat": -18.19,
+      "lon": 31.55,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "bindura-prov",
+      "name": "Bindura Provincial Hospital",
+      "town": "Bindura",
+      "address": "Bindura",
+      "lat": -17.3,
+      "lon": 31.33,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "chinhoyi-prov",
+      "name": "Chinhoyi Provincial Hospital",
+      "town": "Chinhoyi",
+      "address": "Chinhoyi",
+      "lat": -17.36,
+      "lon": 30.2,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "kwekwe-gen",
+      "name": "Kwekwe General Hospital",
+      "town": "Kwekwe",
+      "address": "Kwekwe",
+      "lat": -18.93,
+      "lon": 29.81,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "hwange-colliery",
+      "name": "Hwange Colliery Hospital",
+      "town": "Hwange",
+      "address": "Hwange",
+      "lat": -18.37,
+      "lon": 26.5,
+      "ownership": "public",
+      "services": []
+    },
+    {
+      "id": "victoria-falls",
+      "name": "Victoria Falls Hospital",
+      "town": "Victoria Falls",
+      "address": "Victoria Falls",
+      "lat": -17.93,
+      "lon": 25.83,
+      "ownership": "public",
+      "services": []
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "_meta": {
+    "language": "Ndebele",
+    "code": "nd",
+    "note": "DRAFT interface translation. Must be checked by a fluent Ndebele speaker. Medical and safety text is not translated yet and falls back to English with a notice, as the proposal does not allow raw machine translation for medical content.",
+    "keywordsTodo": "TODO: add Ndebele search words that people really use for each section. Leave a list empty until a fluent speaker provides the words. Do not guess medical words."
+  },
+  "ui": {
+    "appName": "Intelligent Fertility Navigator",
+    "tagline": "Ulwazi olucacileyo. Izinqumo ezingcono.",
+    "chooseLanguage": "Khetha ulimi",
+    "chooseLanguageHint": "Khetha ulimi ofuna ukulusebenzisa. Ungalutshintsha ngemva kwesikhathi kumenu.",
+    "back": "Emuva",
+    "draft": "DRAFT – akukahlolwa",
+    "notTranslated": "Amanye amazwi kulesi sigaba asesesiNgisini. Azahunyushwa njalo ahlolwe.",
+    "changeLanguage": "Ntshintsha ulimi",
+    "mainMenu": "Imenu enkulu",
+    "tabs": {
+      "home": "Ekhaya",
+      "prepare": "Lungiselela",
+      "findCare": "Thola uncedo",
+      "ask": "Buza"
+    }
+  },
+  "welcome": {
+    "title": "Salibonani, mngane",
+    "intro": "Awuwedwa. Ngihamba lawe, isinyathelo ngasinye.",
+    "canTitle": "Le app ingakwenza",
+    "can": [
+      "Ukuchaza ngokuthwala isisu ngamazwi alula",
+      "Ukukunceda ulungiselele ukubona isisebenzi sezempilakahle",
+      "Ukukutshengisa amakliniki ahlolwe yithimu yethu"
+    ],
+    "cannotTitle": "Le app ingeke ikwenze",
+    "cannot": [
+      "Ingeke ikutshele ukuthi ulomkhuhlane yini",
+      "Ingeke ikunike umuthi kumbe ukwelatshwa",
+      "Kayikubuzi ibizo lakho kumbe inombolo yefoni"
+    ],
+    "start": "Qala"
+  },
+  "menu": {
+    "title": "Singakunceda njani lamuhla?",
+    "greeting": "Salibonani",
+    "moreTopics": "Ezinye izigaba",
+    "understand": {
+      "label": "Zwisisa ngokuthwala isisu",
+      "hint": "Ulwazi olucacileyo njalo olulula"
+    },
+    "prepare": {
+      "label": "Lungiselela ukuya ekliniki",
+      "hint": "Uhlu lokuzilungiselela"
+    },
+    "costs": {
+      "label": "Zwisisa izindleko",
+      "hint": "Inhlobo zezindleko ongazihlela"
+    },
+    "findCare": {
+      "label": "Thola uncedo eduze lawe",
+      "hint": "Amakliniki ahloliweyo"
+    },
+    "support": {
+      "label": "Ukusekelwa lokulandelayo",
+      "hint": "Uncedo lezimpawu eziphuthumayo"
+    },
+    "assistant": {
+      "label": "Buza umncedisi",
+      "hint": "Izimpendulo ezivela emazwini ahloliweyo kuphela"
+    },
+    "privacy": {
+      "label": "Ubumfihlo bakho",
+      "hint": "Esikuqoqayo lesingakuqoqiyo"
+    }
+  },
+  "understand": {
+    "title": "Zwisisa ngokuthwala isisu",
+    "sections": [
+      {
+        "id": "what",
+        "keywords": []
+      },
+      {
+        "id": "when-help",
+        "keywords": []
+      },
+      {
+        "id": "causes",
+        "keywords": []
+      },
+      {
+        "id": "both-partners",
+        "keywords": []
+      },
+      {
+        "id": "check-up",
+        "keywords": []
+      }
+    ]
+  },
+  "prepare": {
+    "title": "Lungiselela ukuya ekliniki",
+    "stepOf": "Isinyathelo {n} kwezi {total}",
+    "summaryStep": "Isifinyezo",
+    "next": "Okulandelayo",
+    "back": "Emuva"
+  },
+  "costs": {
+    "title": "Zwisisa izindleko",
+    "sections": [
+      {
+        "id": "consultation",
+        "keywords": []
+      },
+      {
+        "id": "tests-cost",
+        "keywords": []
+      },
+      {
+        "id": "treatment-cost",
+        "keywords": []
+      },
+      {
+        "id": "transport",
+        "keywords": []
+      },
+      {
+        "id": "cost-questions",
+        "keywords": []
+      }
+    ]
+  },
+  "findCare": {
+    "title": "Thola uncedo",
+    "intro": "Amakliniki lezibhedlela eziseduze lawe. Sicela ufonele kuqala ukuze uqinisekise izinsiza lamanani.",
+    "empty": "Akukho kliniki ehloliweyo okwamanje. Sizangezelela amakliniki nxa ithimu yethu isiwafonele kumbe iwavakatshele.",
+    "lastChecked": "Ihlolwe:",
+    "call": "Fonela",
+    "services": "Abakwenzayo:",
+    "all": "Wonke"
+  },
+  "support": {
+    "title": "Ukusekelwa lokulandelayo",
+    "urgent": {
+      "id": "urgent",
+      "keywords": []
+    },
+    "sections": [
+      {
+        "id": "feelings",
+        "keywords": []
+      },
+      {
+        "id": "family",
+        "keywords": []
+      },
+      {
+        "id": "next-steps",
+        "keywords": []
+      }
+    ]
+  },
+  "assistant": {
+    "title": "Buza umncedisi",
+    "privacyReminder": "Ungabhali ibizo lakho, inombolo yefoni, ikheli kumbe inombolo yefayili yekliniki.",
+    "placeholder": "Bhala umbuzo wakho...",
+    "send": "Thumela",
+    "you": "Wena",
+    "from": "Kuvela:"
+  },
+  "privacy": {
+    "title": "Ubumfihlo bakho"
+  }
+}

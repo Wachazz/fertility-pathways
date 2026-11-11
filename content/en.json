@@ -1,0 +1,725 @@
+{
+  "_meta": {
+    "language": "English",
+    "code": "en",
+    "note": "Every section has a 'reviewed' flag. It must stay false until a qualified Zimbabwe-based clinician has approved the text. Unreviewed text is shown with a DRAFT label."
+  },
+  "ui": {
+    "appName": "Intelligent Fertility Navigator",
+    "tagline": "Clear information. Better decisions.",
+    "chooseLanguage": "Choose your language",
+    "chooseLanguageHint": "Choose the language you want to use. You can change it later from the menu.",
+    "back": "Back",
+    "draft": "DRAFT – not yet reviewed",
+    "notTranslated": "Some text on this screen is still in English. It will be translated and reviewed.",
+    "changeLanguage": "Change language",
+    "mainMenu": "Main menu",
+    "urgentButton": "Get help",
+    "urgentHint": "Opens the urgent warning signs",
+    "tabs": {
+      "home": "Home",
+      "prepare": "Prepare",
+      "findCare": "Find care",
+      "ask": "Ask"
+    }
+  },
+  "welcome": {
+    "title": "Hello, friend",
+    "intro": "You are not alone. I am here to walk with you, one step at a time.",
+    "canTitle": "What this app can do",
+    "can": [
+      "Explain fertility in simple words",
+      "Help you prepare for a visit to a health worker",
+      "Show you clinics our team has checked"
+    ],
+    "cannotTitle": "What this app cannot do",
+    "cannot": [
+      "It cannot tell you if you have a condition",
+      "It cannot give you medicine or treatment",
+      "It does not ask for your name or phone number"
+    ],
+    "start": "Get started"
+  },
+  "menu": {
+    "title": "How can we help you today?",
+    "greeting": "Hello",
+    "moreTopics": "More topics",
+    "understand": {
+      "label": "Understand your fertility",
+      "hint": "Clear, simple information"
+    },
+    "prepare": {
+      "label": "Prepare for care",
+      "hint": "A checklist for your visit"
+    },
+    "costs": {
+      "label": "Understand the costs",
+      "hint": "Types of costs to plan for"
+    },
+    "findCare": {
+      "label": "Find care near you",
+      "hint": "Clinics our team has checked"
+    },
+    "support": {
+      "label": "Support and next steps",
+      "hint": "Help and urgent signs"
+    },
+    "assistant": {
+      "label": "Ask the assistant",
+      "hint": "Answers from approved text only"
+    },
+    "privacy": {
+      "label": "Your privacy",
+      "hint": "What we collect and what we do not"
+    },
+    "pathway": {
+      "label": "Your personal pathway",
+      "hint": "Next steps that fit you"
+    },
+    "warning": {
+      "label": "Check warning signs",
+      "hint": "Do you need care today?"
+    }
+  },
+  "understand": {
+    "title": "Understand your fertility",
+    "sections": [
+      {
+        "id": "what",
+        "reviewed": false,
+        "heading": "What fertility means",
+        "body": [
+          "Fertility means being able to get pregnant and carry a pregnancy.",
+          "Many women and couples take time to get pregnant. This is common.",
+          "Around 1 in 6 adults in the world have trouble getting pregnant at some point in their life (World Health Organization, 2023). You are not alone."
+        ],
+        "keywords": [
+          "fertility",
+          "fertile",
+          "pregnant",
+          "pregnancy",
+          "conceive",
+          "baby",
+          "infertility",
+          "common"
+        ]
+      },
+      {
+        "id": "when-help",
+        "reviewed": false,
+        "heading": "When to see a health worker",
+        "body": [
+          "Common advice is to see a health worker if you have been trying to get pregnant for 12 months and you are under 35 years old.",
+          "If you are 35 or older, common advice is to go after 6 months of trying.",
+          "Go sooner if your periods are very irregular or have stopped, if your periods are very painful, or if you have had infections or surgery in the past."
+        ],
+        "keywords": [
+          "when",
+          "long",
+          "months",
+          "year",
+          "trying",
+          "age",
+          "35",
+          "irregular",
+          "periods",
+          "doctor",
+          "nurse",
+          "see"
+        ]
+      },
+      {
+        "id": "causes",
+        "reviewed": false,
+        "heading": "Possible reasons",
+        "body": [
+          "There are many possible reasons why getting pregnant can take longer. Some are linked to ovulation or hormones, such as PCOS. Others include endometriosis, fibroids, blocked tubes or past infections.",
+          "Sometimes the reason is with the man. Sometimes no clear reason is found.",
+          "Only a health worker, with tests, can find the reason. This app cannot tell you what is causing it."
+        ],
+        "keywords": [
+          "cause",
+          "causes",
+          "reason",
+          "why",
+          "pcos",
+          "endometriosis",
+          "fibroids",
+          "tubes",
+          "infection",
+          "hormones",
+          "ovulation",
+          "unexplained"
+        ]
+      },
+      {
+        "id": "both-partners",
+        "reviewed": false,
+        "heading": "Both partners matter",
+        "body": [
+          "Trouble getting pregnant is not only a woman's issue. A man can also be tested, often with a simple semen test.",
+          "Nobody should be blamed. Going to the clinic together can help."
+        ],
+        "keywords": [
+          "partner",
+          "husband",
+          "man",
+          "men",
+          "male",
+          "semen",
+          "sperm",
+          "blame",
+          "both"
+        ]
+      },
+      {
+        "id": "check-up",
+        "reviewed": false,
+        "heading": "What a check-up may involve",
+        "body": [
+          "A health worker may ask about your periods, past pregnancies, your health and how long you have been trying.",
+          "They may suggest blood tests, a scan, or a test for your partner. Ask them to explain each test and why you need it."
+        ],
+        "keywords": [
+          "test",
+          "tests",
+          "check",
+          "checkup",
+          "scan",
+          "blood",
+          "examination",
+          "visit",
+          "appointment"
+        ]
+      }
+    ]
+  },
+  "prepare": {
+    "title": "Prepare for care",
+    "stepOf": "Step {n} of {total}",
+    "next": "Next",
+    "back": "Back",
+    "steps": [
+      {
+        "id": "bring",
+        "reviewed": false,
+        "title": "Things to bring",
+        "intro": "Tick the things you will take to your visit.",
+        "items": [
+          {
+            "id": "periods",
+            "text": "The dates of your last few periods"
+          },
+          {
+            "id": "how-long",
+            "text": "How long you have been trying to get pregnant"
+          },
+          {
+            "id": "medicines",
+            "text": "A list of any medicines or herbs you take"
+          },
+          {
+            "id": "results",
+            "text": "Old test results or clinic cards"
+          },
+          {
+            "id": "id-money",
+            "text": "Your ID and money for fees and transport"
+          }
+        ]
+      },
+      {
+        "id": "questions",
+        "reviewed": false,
+        "title": "Questions to ask",
+        "intro": "Tick the questions you want to ask the health worker.",
+        "items": [
+          {
+            "id": "reasons",
+            "text": "What could be the reasons?"
+          },
+          {
+            "id": "which-tests",
+            "text": "What tests do I need, and why?"
+          },
+          {
+            "id": "test-cost",
+            "text": "How much will the tests cost?"
+          },
+          {
+            "id": "partner-test",
+            "text": "Should my partner be tested too?"
+          },
+          {
+            "id": "what-next",
+            "text": "What happens next, and when should I come back?"
+          }
+        ]
+      },
+      {
+        "id": "partner",
+        "reviewed": false,
+        "title": "Your partner",
+        "intro": "Fertility checks can involve both partners. A man can be tested with a simple semen test.",
+        "items": [
+          {
+            "id": "talk",
+            "text": "Talk with my partner about coming to the visit"
+          },
+          {
+            "id": "ask-clinic",
+            "text": "Ask the clinic if my partner can be tested too"
+          }
+        ]
+      }
+    ],
+    "summaryTitle": "Your appointment summary",
+    "summaryIntro": "This summary stays on your phone. You can share it or save it to your notes. Nothing is sent to us.",
+    "share": "Share or save",
+    "copy": "Copy",
+    "copied": "Copied. You can paste it into your notes or a message.",
+    "shareTitle": "My appointment checklist",
+    "shareError": "Sharing is not available on this device. You can copy the list by hand.",
+    "done": "Done",
+    "toDo": "To do",
+    "startAgain": "Start again",
+    "summaryStep": "Summary",
+    "confirmReset": "Clear all your ticks and start again?",
+    "confirmYes": "Yes, clear them",
+    "confirmNo": "No, keep them",
+    "aboutTitle": "About me"
+  },
+  "costs": {
+    "title": "Understand the costs",
+    "intro": "This app does not show prices yet. We will only show a price when a clinic has confirmed it, with the date it was checked.",
+    "sections": [
+      {
+        "id": "consultation",
+        "reviewed": false,
+        "heading": "Seeing a health worker",
+        "body": [
+          "Seeing a doctor or nurse usually has a fee. Fees are different at public and private clinics."
+        ],
+        "keywords": [
+          "cost",
+          "costs",
+          "price",
+          "fee",
+          "fees",
+          "pay",
+          "money",
+          "consultation",
+          "expensive",
+          "cheap"
+        ]
+      },
+      {
+        "id": "tests-cost",
+        "reviewed": false,
+        "heading": "Tests",
+        "body": [
+          "Blood tests, scans and semen tests may each have their own fee. Ask the clinic what each test costs before you agree to it."
+        ],
+        "keywords": [
+          "test",
+          "tests",
+          "scan",
+          "blood",
+          "cost",
+          "price",
+          "fee"
+        ]
+      },
+      {
+        "id": "treatment-cost",
+        "reviewed": false,
+        "heading": "Medicine and treatment",
+        "body": [
+          "If a doctor suggests treatment, ask what it costs, how long it lasts and whether there are cheaper options."
+        ],
+        "keywords": [
+          "treatment",
+          "medicine",
+          "ivf",
+          "cost",
+          "price",
+          "afford"
+        ]
+      },
+      {
+        "id": "transport",
+        "reviewed": false,
+        "heading": "Transport and time",
+        "body": [
+          "Think about bus fare, time off work and how many visits you may need."
+        ],
+        "keywords": [
+          "transport",
+          "bus",
+          "travel",
+          "fare",
+          "time",
+          "work",
+          "visits"
+        ]
+      },
+      {
+        "id": "cost-questions",
+        "reviewed": false,
+        "heading": "Questions to ask about cost",
+        "body": [
+          "How much is the first visit?",
+          "What tests might I need, and what do they cost?",
+          "Do you accept medical aid?",
+          "Can I pay in parts?"
+        ],
+        "keywords": [
+          "medical aid",
+          "insurance",
+          "pay",
+          "parts",
+          "cost",
+          "ask"
+        ]
+      }
+    ]
+  },
+  "findCare": {
+    "title": "Find care",
+    "intro": "Clinics and hospitals near you. Please phone first to confirm services and prices.",
+    "empty": "No clinics have been checked yet. We will add clinics after our team has phoned or visited them.",
+    "nowTitle": "What you can do now",
+    "now": [
+      "Ask at your nearest government clinic or hospital. They can tell you where fertility services are offered."
+    ],
+    "callTitle": "What to ask when you call a clinic",
+    "callQuestions": [
+      "Do you offer fertility check-ups for women?",
+      "Can my partner be tested at the same place?",
+      "How much is the first visit?",
+      "Do I need a referral letter?",
+      "What should I bring to the first visit?"
+    ],
+    "lastChecked": "Last checked:",
+    "call": "Call",
+    "services": "Services:",
+    "all": "All",
+    "pickTown": "Choose your town",
+    "inTown": "In {town}",
+    "noneInTown": "No checked clinic in {town} yet. These are the nearest ones.",
+    "away": "about {km} km away in a straight line",
+    "fee": "First visit:",
+    "feeAsk": "Price not confirmed. Ask the clinic before you go.",
+    "feeChecked": "price checked",
+    "public": "Government",
+    "private": "Private",
+    "feeNote": "Prices change. Always ask the clinic for the price in writing."
+  },
+  "support": {
+    "title": "Support and next steps",
+    "urgent": {
+      "id": "urgent",
+      "reviewed": false,
+      "heading": "Get help now",
+      "body": [
+        "Go to the nearest clinic or hospital straight away if you have very strong pain in your belly (especially on one side), heavy bleeding, or if you faint or feel like you will faint."
+      ],
+      "keywords": [
+        "pain",
+        "bleeding",
+        "blood",
+        "faint",
+        "fainting",
+        "emergency",
+        "urgent",
+        "severe"
+      ]
+    },
+    "sections": [
+      {
+        "id": "feelings",
+        "reviewed": false,
+        "heading": "You are not alone",
+        "body": [
+          "Trying to get pregnant can bring stress, sadness or worry. These feelings are normal.",
+          "Talking to someone you trust, a counsellor or a support group can help."
+        ],
+        "keywords": [
+          "sad",
+          "stress",
+          "stressed",
+          "worry",
+          "worried",
+          "alone",
+          "feel",
+          "feelings",
+          "counsellor",
+          "support",
+          "depressed"
+        ]
+      },
+      {
+        "id": "family",
+        "reviewed": false,
+        "heading": "Pressure from family",
+        "body": [
+          "Some women face blame or pressure from family. The reason can be with either partner. It is no one's fault."
+        ],
+        "keywords": [
+          "family",
+          "pressure",
+          "blame",
+          "in-laws",
+          "husband",
+          "fault"
+        ]
+      },
+      {
+        "id": "next-steps",
+        "reviewed": false,
+        "heading": "Next steps",
+        "body": [
+          "Write down your questions. Use the Prepare for care checklist. Look for a clinic in Find care."
+        ],
+        "keywords": [
+          "next",
+          "steps",
+          "start",
+          "what do i do",
+          "help"
+        ]
+      }
+    ]
+  },
+  "assistant": {
+    "title": "Ask the assistant",
+    "intro": "This assistant only shows approved text from this app. It does not diagnose and does not recommend medicine.",
+    "disclaimer": "This is a simple helper that works offline. It is not a doctor.",
+    "privacyReminder": "Do not type your name, phone number, address or clinic file number.",
+    "placeholder": "Type your question...",
+    "send": "Send",
+    "suggestionsTitle": "Or tap a question:",
+    "suggestions": [
+      "When should I see a health worker?",
+      "What could be the reason?",
+      "Can my partner be tested?",
+      "What happens at a check-up?",
+      "What costs should I plan for?",
+      "I feel stressed and worried"
+    ],
+    "you": "You",
+    "from": "From:",
+    "refuseDiagnose": "I cannot tell you if you have a condition. Only a health worker, after talking with you and doing tests, can do that. You can read 'Possible reasons' in Understand your fertility, or use Prepare for care to get ready for a visit.",
+    "refusePrescribe": "I cannot recommend medicine, herbs or doses. Please ask a doctor or nurse before you take anything.",
+    "clinic": "To find a clinic, open Find care from the main menu. We only list clinics our team has checked.",
+    "personalInfo": "It looks like you typed a phone number or another personal detail. Please do not share personal details here. Your message was not saved.",
+    "noMatch": "I could not find an answer in the approved information. Please try other words, or ask a health worker.",
+    "deeper": "Get a deeper answer online",
+    "deeperNote": "Your question, your pathway answers and your last few questions are sent once to our server so it can write a clearer answer from the approved text. Do not include your name or phone number.",
+    "deeperLoading": "Writing your summary...",
+    "deeperFailed": "Could not reach the internet. The answers above still work offline.",
+    "deeperLabel": "AI summary of the approved text above. It is not medical advice.",
+    "smartOn": "Smart answers are on. Your question, your pathway answers and your last few questions are sent to our server to write the answer. Do not type your name or phone number.",
+    "smartOff": "Smart answers are off. You get approved answers from this phone only.",
+    "smartTurnOff": "Turn smart answers off",
+    "smartTurnOn": "Turn smart answers on",
+    "thinking": "Thinking...",
+    "smartFailed": "I could not reach the internet, so this answer is from the approved text on this phone.",
+    "smartLabel": "Smart answer. It is not medical advice."
+  },
+  "privacy": {
+    "title": "Your privacy",
+    "sections": [
+      {
+        "id": "collect",
+        "reviewed": false,
+        "heading": "What we collect",
+        "body": [
+          "Nothing. You do not need an account, a name or a phone number."
+        ]
+      },
+      {
+        "id": "on-phone",
+        "reviewed": false,
+        "heading": "What stays on your phone",
+        "body": [
+          "Your checklist ticks and your questions to the assistant are kept only while the app is open. They are cleared when you close the app. Your language choice is not saved either."
+        ]
+      },
+      {
+        "id": "no-tracking",
+        "reviewed": false,
+        "heading": "No tracking",
+        "body": [
+          "This app has no analytics, no adverts and no trackers. Your answers are not sent anywhere.",
+          "The only exception is Smart answers in Ask. When it is on, your question, your pathway answers and your last few questions are sent to our server to write an answer. Nothing is saved. You can turn it off in Ask."
+        ]
+      },
+      {
+        "id": "sharing",
+        "reviewed": false,
+        "heading": "Sharing and calls",
+        "body": [
+          "If you press Share, your phone opens its own share menu and you choose where the summary goes.",
+          "If you press Call, your phone opens its dialler. The call is between you and the clinic."
+        ]
+      },
+      {
+        "id": "report",
+        "reviewed": false,
+        "heading": "Report a problem",
+        "body": [
+          "If you see something wrong or unsafe in this app, please tell the Intelligent Fertility Navigator team. Contact details will be added before launch."
+        ]
+      }
+    ]
+  },
+  "pathway": {
+    "title": "Your personal pathway",
+    "reviewed": false,
+    "intro": "Answer a few questions to see your next steps. Nothing is saved and we do not ask for your name.",
+    "ageQ": "How old are you?",
+    "ages": [
+      {
+        "id": "u35",
+        "text": "Under 35"
+      },
+      {
+        "id": "35-39",
+        "text": "35 to 39"
+      },
+      {
+        "id": "40",
+        "text": "40 or older"
+      }
+    ],
+    "monthsQ": "How long have you been trying to get pregnant?",
+    "months": [
+      {
+        "id": "lt6",
+        "text": "Less than 6 months"
+      },
+      {
+        "id": "6-11",
+        "text": "6 to 11 months"
+      },
+      {
+        "id": "12",
+        "text": "12 months or more"
+      }
+    ],
+    "flagsQ": "Tick anything that applies to you.",
+    "flags": [
+      {
+        "id": "irregular",
+        "text": "My periods are very irregular or have stopped"
+      },
+      {
+        "id": "painful",
+        "text": "My periods are very painful"
+      },
+      {
+        "id": "infection",
+        "text": "I have had a pelvic infection or a sexually transmitted infection"
+      },
+      {
+        "id": "surgery",
+        "text": "I have had surgery in my belly or pelvis"
+      },
+      {
+        "id": "partnerUntested",
+        "text": "My partner has not been tested"
+      }
+    ],
+    "show": "Show my pathway",
+    "again": "Start again",
+    "resultTitle": "Your next steps",
+    "see": {
+      "heading": "It is a good time to see a health worker",
+      "body": "Based on your answers, book a visit soon. Use Prepare for care to get ready."
+    },
+    "wait": {
+      "heading": "You can keep trying for now",
+      "body": "Many couples need more time. Come back and check again after 12 months of trying if you are under 35, or after 6 months if you are 35 or older."
+    },
+    "steps": [
+      {
+        "id": "timing",
+        "text": "Having sex every 2 to 3 days through the month gives a good chance without tracking exactly."
+      },
+      {
+        "id": "lifestyle",
+        "text": "Eat well, stay active and stop smoking if you smoke. This helps both partners."
+      },
+      {
+        "id": "sti",
+        "text": "If you may have had an infection, ask a health worker for a test and treatment. Untreated infections can harm fertility."
+      },
+      {
+        "id": "partner",
+        "text": "Ask your partner to be tested too. A simple semen test is part of a fertility check."
+      }
+    ]
+  },
+  "warning": {
+    "title": "Check warning signs",
+    "reviewed": false,
+    "intro": "Tick anything you have now. Nothing is saved.",
+    "urgentQ": "Signs that need care now",
+    "urgent": [
+      {
+        "id": "pain",
+        "text": "Very strong pain in my belly, especially on one side"
+      },
+      {
+        "id": "bleeding",
+        "text": "Heavy bleeding, for example soaking a pad every hour"
+      },
+      {
+        "id": "faint",
+        "text": "I have fainted or feel like I will faint"
+      },
+      {
+        "id": "pregpain",
+        "text": "I have a positive pregnancy test and belly pain or bleeding"
+      },
+      {
+        "id": "fever",
+        "text": "Fever together with belly pain"
+      }
+    ],
+    "soonQ": "Signs to get checked in the next few days",
+    "soon": [
+      {
+        "id": "afterSex",
+        "text": "Bleeding after sex or between periods"
+      },
+      {
+        "id": "discharge",
+        "text": "Unusual or bad smelling discharge"
+      },
+      {
+        "id": "noPeriod",
+        "text": "No period for 3 months and I am not pregnant"
+      },
+      {
+        "id": "painfulPeriods",
+        "text": "Period pain so bad I cannot do my daily tasks"
+      }
+    ],
+    "check": "Check my signs",
+    "again": "Start again",
+    "goNow": {
+      "heading": "Go to a clinic or hospital now",
+      "body": "Do not wait. If you can, ask someone to go with you."
+    },
+    "seeSoon": {
+      "heading": "See a health worker in the next few days",
+      "body": "These signs should be checked. Use Find care to look for a clinic."
+    },
+    "none": {
+      "heading": "None of these signs ticked",
+      "body": "If you still feel unwell or worried, see a health worker."
+    }
+  }
+}

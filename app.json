@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "Intelligent Fertility Navigator",
+    "slug": "tafadzwa",
+    "scheme": "fertilitypathways",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "zw.fertilitypathways.app"
+    },
+    "android": {
+      "package": "zw.fertilitypathways.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "softwareKeyboardLayoutMode": "pan",
+      "allowBackup": false,
+      "blockedPermissions": [
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-speech-recognition",
+        {
+          "microphonePermission": "Allow the app to use the microphone so you can ask your question by voice.",
+          "speechRecognitionPermission": "Allow the app to turn your voice into text.",
+          "androidSpeechServicePackages": [
+            "com.google.android.googlequicksearchbox"
+          ]
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Allow the app to use your location to show the clinics nearest to you."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8ca81840-f720-4199-bd6c-96b9cf430e2c"
+      }
+    },
+    "owner": "grumium-engineering-pvt-ltd"
+  }
+}
